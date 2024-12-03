@@ -1,0 +1,22 @@
+[
+    {
+        "path": "/inventario",
+        "title": "Productos",
+        "type": "sub",
+        "icontype": "category",
+        "collapse": "productos",
+        "children": [
+            {"path": "lista-productos", "title": "Lista de Productos", "ab":"L"}
+        ]
+    },
+    {
+        "path": "/inventario",
+        "title": "Proveedores",
+        "type": "sub",
+        "icontype": "store",
+        "collapse": "proveedores",
+        "children": [
+            {"path": "lista-proveedores", "title": "Lista de Proveedores", "ab":"L"}
+        ]
+    }
+]
